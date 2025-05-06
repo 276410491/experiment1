@@ -200,7 +200,9 @@ const calculateGP = (course) => {
   opacity: 0.6;
   cursor: not-allowed;
 }
-
+.abc{
+  /*ceshi*/
+}
 .stats {
   display: flex;
   gap: 2rem;
